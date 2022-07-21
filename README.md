@@ -1,6 +1,4 @@
-# WeatherApp 🌡📈
-Gives weather report according to the location </br>
-Check Out -> https://rjha0821.github.io/WeatherApp/
+
 
 ## Functionalities🌡:
 Returns weather details such as temprature, type of weather, humidity, wind speed.</br>
